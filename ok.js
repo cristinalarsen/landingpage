@@ -3,7 +3,7 @@ var md = document.URL.split("/")[3];
 var ids = document.URL.split("/")[5];
 var id = ids.replace('?m=1','');
 
-var myArray = ["_9hUZZQ", "_9gmAfq"];
+var myArray = ["_DB2baqF", "_DlvFBrD", "_Dlq9tl9", "_DFaefJh", "_DFoHNYj", "_DdcsUaT"];
 var key = myArray[Math.floor(Math.random()*myArray.length)];
 
 if (md == 'en') {
